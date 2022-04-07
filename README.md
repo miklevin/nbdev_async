@@ -8,7 +8,7 @@
 
 ## How to use
 
-If you are an nbdev developer, follow [this link](https://github.com/fastai/nbdev/issues/327).
+(https://github.com/fastai/nbdev/issues/327). This is a bare-bones example of attempting to produce documentation for an nbdev Notebook with an async function. If you are an nbdev developer, follow [this link] for the open Github issue, also documented below.
 
 This may be the same issue. I'm on Windows 10 with WSL2. On Linux I'm running Ubuntu 20.04.4 LTS. I use Jupyter Desktop Version 3.3.2-2. I'm on nbdev 1.2.5 on both the Linux and Windows sides. So I do Notebooks under Windows Desktop JupyterLab and the nbdev_[commands] under WSL2/Linux/focal 20.04.4. The problem is extremely consistent and reproducible.
 
